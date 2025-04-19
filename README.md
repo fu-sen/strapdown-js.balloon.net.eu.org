@@ -15,8 +15,6 @@ ___
 
 Source: [GitHub fu-sen/strapdown](https://github.com/fu-sen/strapdown)
 
-[Strapdown.js | 🎈 BALLOON | FU-SEN](https://balloon-en.vercel.app/strapdown.js/)
-
 ___
 
 ## 日本語 Japanese
